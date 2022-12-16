@@ -3,7 +3,7 @@ This code is a 'solution' to The Odin Project's Linked Lists Project, part of th
 All factory functions were implemented using TDD (Jest).
 
 LinkedList methods:
-append(value) adds a new node containing value to the end of the list
+_append(value)_ adds a new node containing value to the end of the list
 prepend(value) adds a new node containing value to the start of the list
 size() returns the total number of nodes in the list
 headvalue() returns the first node in the list
