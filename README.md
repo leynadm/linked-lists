@@ -1,4 +1,4 @@
-This code is a 'solution' to (http://www.google.fr/ "The Odin Project's Linked Lists Project"), part of their Computer Science course.
+This code is a 'solution' to .[The Odin Project's Linked Lists Project](https://www.theodinproject.com/lessons/javascript-linked-lists), part of their Computer Science course.
 
 LinkedList methods:
 * append(value) adds a new node containing value to the end of the list
